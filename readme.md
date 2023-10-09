@@ -42,3 +42,26 @@ En este reto reforzarás tus conocimientos en JavaScript, creando funciones, tra
 
 1.- Crea un input en el HTML donde el usuario pueda escribir la palabra que se mandará por parámetros a la primera función.
 2.- Crea un botón en el HTML. Cuando el usuario de click al botón debe dispararse un evento en el cual se invocará la primera función y recibirá lo que el usuario escriba en el input como el string. Después el array resultante será pasado a la segunda función para mostrarlo en el HTML.
+
+
+*Entrevistadora
+	- Buena intro, dando los detalles de lo que vamos a hacer y los pasos
+	- Preguntas relacionadas a la programacion y de por que estamos aqui
+	- Pistas sobre el codigo en tiempo real pero sin decir demasiado
+	- Buen feedback sobre la practica remarcando fortalezas y areas a mejorar
+
+*Entrevistada
+	- Actitud positiva al inicio de la sesion haciendo preguntas puntuales
+	- Demuestra conocimiento sobre como clonar la repo y comenzar en VCS
+	- Buenas practicas comenzando con los comentarios 
+	- En JS excelente inicio al comenzar de manera fluida con el codigo
+	- A pesar de tener errores continua para encontrar solucion
+	- Se mantiene enfocada en el codigo si se le hacen preguntas
+Explica su propio avance y hasta donde tiene conocimiento para mejorar posteriormente
+
+
+
+
+
+
+
